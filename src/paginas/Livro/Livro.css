@@ -36,3 +36,9 @@
 .livro-detalhe .qtdContainer {
     margin: 32px 0;
 }
+
+.livro-detalhe .tags {
+    display: flex;
+    padding: 16px;
+    gap: 12px;
+}
